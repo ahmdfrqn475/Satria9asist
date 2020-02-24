@@ -29,10 +29,10 @@ class Config(object):
     }
 
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[112]
-    APP_VER     = '5.9.0'
+    APP_VER     = '9.18.1'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'BOTTROX BOT'
-    SYSTEM_VER  = '11.2.5'
+    SYSTEM_VER  = '12.4.1'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
